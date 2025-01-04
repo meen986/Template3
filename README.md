@@ -1,1 +1,1 @@
-#This template based on Photography.
+# This template based on Photography.
